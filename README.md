@@ -23,7 +23,7 @@ conda deactivate
 # conda environment list
 conda info --envs
 
-# run below command to not activate code on startup
+#run below command to not activate code on startup
 conda config --set auto_activate_base false
 
 
